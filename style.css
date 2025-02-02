@@ -221,15 +221,16 @@ h1 {
 }
 .skills .section-content{
     gap: 2em;
+    width: 100%
 }
 .skill-pane {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 4em;
+    gap: 2em;
     height: 500px;
-    width: 300px;
+    width: 20%;
     border: 4px solid black;
     border-radius: 10%;
 }
